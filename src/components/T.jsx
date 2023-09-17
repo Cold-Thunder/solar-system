@@ -15,6 +15,9 @@ const Tjs = () => {
         </div>
         <div className="earth-section  planet">
           <div className="earth"></div>
+          <div className="moon-section planet">
+            <div className="moon"></div>
+          </div>
         </div>
         <div className="mars-section planet">
           <div className="mars"></div>
